@@ -1,1 +1,10 @@
-# Autowiring
+- Autowiring
+  - @Component
+  - @Autowire
+  - @Primary
+  - @Qualifier
+- Dependency Injection
+  - Constructor Injection
+  - Setter Injection
+  - Field Injection
+- Spring container (IoC container)
